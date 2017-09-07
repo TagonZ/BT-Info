@@ -1,0 +1,19 @@
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\BT Info Taggy.exe.config
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\BT Info Taggy.exe
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\BT Info Taggy.pdb
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Discord.Net.Commands.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Discord.Net.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Newtonsoft.Json.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Nito.AsyncEx.Concurrent.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Nito.AsyncEx.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Nito.AsyncEx.Enlightenment.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\RestSharp.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\WebSocket4Net.dll
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Newtonsoft.Json.xml
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Nito.AsyncEx.xml
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Nito.AsyncEx.Concurrent.xml
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\Nito.AsyncEx.Enlightenment.xml
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Release\RestSharp.xml
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\obj\Release\BT Info Taggy.exe
+c:\Users\T\Documents\Visual Studio 2017\Projects\BT Info Taggy\BT Info Taggy\obj\Release\BT Info Taggy.pdb
+C:\Users\T\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\obj\Release\BT Info Taggy.csprojResolveAssemblyReference.cache

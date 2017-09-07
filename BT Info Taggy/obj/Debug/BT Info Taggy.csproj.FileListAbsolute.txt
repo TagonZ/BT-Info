@@ -1,0 +1,18 @@
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\BT Info Taggy.exe.config
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\BT Info Taggy.exe
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\BT Info Taggy.pdb
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Discord.Net.Commands.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Discord.Net.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Newtonsoft.Json.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Nito.AsyncEx.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\RestSharp.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\WebSocket4Net.dll
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Newtonsoft.Json.xml
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Nito.AsyncEx.xml
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\bin\Debug\RestSharp.xml
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\obj\Debug\BT Info Taggy.exe
+c:\users\t\documents\visual studio 2017\Projects\BT Info Taggy\BT Info Taggy\obj\Debug\BT Info Taggy.pdb
